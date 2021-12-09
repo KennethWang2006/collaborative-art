@@ -19,6 +19,7 @@ function setup() {
   b = random(0,255)
   fill(r,g,b)
   rect(random(10,150), random(50, 100), random(10,150), random(50,100))
+  
   //Shayan
   
   //Kenny
